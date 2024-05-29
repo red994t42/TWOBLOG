@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>TWOBLOG</title>
+    <link href="file:///C:\Users\HP\Documents\Publii\sites\twoblog\preview/feed.xml" rel="self" />
+    <link href="file:///C:\Users\HP\Documents\Publii\sites\twoblog\preview" />
+    <updated>2024-05-29T15:43:10+07:00</updated>
+    <author>
+        <name>COCO</name>
+    </author>
+    <id>file:///C:\Users\HP\Documents\Publii\sites\twoblog\preview</id>
+
+    <entry>
+        <title>OPEN SOURCE</title>
+        <author>
+            <name>COCO</name>
+        </author>
+        <link href="file:///C:\Users\HP\Documents\Publii\sites\twoblog\preview/open-source.html"/>
+        <id>file:///C:\Users\HP\Documents\Publii\sites\twoblog\preview/open-source.html</id>
+
+        <updated>2024-05-29T12:01:51+07:00</updated>
+            <summary>
+                <![CDATA[
+                    Pengertian Open Source &lt;Pengertian Secara Umum&gt; Perangkat lunak sumber terbuka (bahasa Inggris: open source software) adalah jenis perangkat lunak yang kode sumber-nya terbuka untuk dipelajari,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Pengertian Open Source</strong></p>
+<p><br><span style="color: #e67e23;"><strong>&lt;Pengertian Secara Umum&gt;</strong></span><br><br>Perangkat lunak sumber terbuka (bahasa Inggris: open source software) adalah jenis perangkat lunak yang kode sumber-nya terbuka untuk dipelajari, diubah, ditingkatkan dan disebarluaskan.<br><br>Karena sifat ini, umumnya pengembangannya dilakukan oleh satu paguyuban terbuka yang bertujuan mengembangkan perangkat lunak bersangkutan.<br><br>Jadi, mudahnya adalah perangkat lunak dan sistem operasi tersebut merupakan buatan manusia dan ada pihak yang mendistribusikannya sehingga banyak orang dapat menggunakannya.<br><br><span style="color: #e67e23;"><strong>&lt;Pengertian Menurut Para Ahli&gt;</strong></span><br><br>Menurut Kementerian Komunikasi dan Informatika Republik Indonesia, definisi open source atau sumber terbuka adalah sistem pengembangan yang tidak dikoordinasi oleh suatu individu/ lembaga pusat tetapi oleh para pelaku yang bekerja sama dengan memanfaatkan kode sumber yang tersebar dan tersedia bebas.<br><br>Hal di atas menyebabkan setiap orang dapat menggunakan program open source secara gratis.</p>
+<p> </p>
+<p>Macam - Macam Open Source :</p>
+<ol>
+<li>Octave</li>
+<li>GIMP</li>
+<li>R</li>
+</ol>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

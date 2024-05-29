@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///C:\Users\HP\Documents\Publii\sites\twoblog\preview/sitemap.xml
